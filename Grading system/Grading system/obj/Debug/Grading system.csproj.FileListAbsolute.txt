@@ -1,0 +1,13 @@
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\bin\Debug\Grading system.exe.config
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\bin\Debug\Grading system.exe
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\bin\Debug\Grading system.pdb
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\obj\Debug\Grading system.csproj.AssemblyReference.cache
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\obj\Debug\Grading_system.Form1.resources
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\obj\Debug\Grading_system.Properties.Resources.resources
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\obj\Debug\Grading system.csproj.GenerateResource.cache
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\obj\Debug\Grading system.csproj.CoreCompileInputs.cache
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\obj\Debug\Grading system.exe
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\obj\Debug\Grading system.pdb
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\obj\Debug\Grading_system.login.resources
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\obj\Debug\Grading_system.Teacher.resources
+C:\Users\quang\Downloads\dddd\Grading system\Grading system\obj\Debug\Grading_system.admin.resources
